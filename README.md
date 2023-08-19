@@ -3,15 +3,17 @@
 <h3 align="center">Cloud & DevOps Enthusiast</h3>
 <br>
 <div style="text-align: center;">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="display: inline-block;">
+    <img src="https://cdn.dribbble.com/users/1480650/screenshots/4739771/autodevops-dribbble-gif.gif" alt="Coder GIF" width="500" style="display: inline-block;">
 </div>
 </abc>
 
-- 🔭 Streamlining **Terraform-based provisioning with AWS**, leveraging data analysis tools like **Redshift** and **QuickSight** for enhanced decision-making and resource optimization.
+- 👨‍💻 All about me is at [My Website](https://prikat25.github.io/)
+
+- 🔭 I'm currently upgrading my skill in **Terraform-based provisioning with AWS**, leveraging data analysis tools like **Redshift** and **QuickSight** for enhanced decision-making and resource optimization.
 
 - 🌱 I’m currently focused on getting my **AWS Certified Solutions Architect Certification**
 
-- 👯 I’m looking to collaborate on **Cloud or Data Science Projects**
+- 👯 I’m looking to collaborate on anything related to **Cloud or Data Science Projects**
 
 - 📫 How to reach me **chukkapriyanka25@tamu.edu**
 
