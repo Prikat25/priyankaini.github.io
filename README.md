@@ -3,7 +3,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Priyanka Reddy, Cloud & DevOps Enthusiast :computer:<br>
   <br>
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.linkedin.com%2Fin%2Fkashmirgaurav&psig=AOvVaw1dOB-KCdF2Jzuo3FsPlJhC&ust=1692504461647000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIj9uMvs54ADFQAAAAAdAAAAABAJ" alt="Coder GIF" width="500">
+    <img src="https://cdn.dribbble.com/users/1480650/screenshots/4739771/autodevops-dribbble-gif.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
