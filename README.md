@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Priyanka Reddy</h1>
 <h3 align="center">Cloud & DevOps Enthusiast</h3>
 <br>
-<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; height: 100vh;">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+<div style="text-align: center;">
+    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="display: inline-block;">
 </div>
 </abc>
 
