@@ -23,7 +23,6 @@
 <h3 align="center">Cloud & DevOps Enthusiast</h3>
 <br>
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</abc>
 
 - 🔭 Streamlining **Terraform-based provisioning with AWS**, leveraging data analysis tools like **Redshift** and **QuickSight** for enhanced decision-making and resource optimization.
 
