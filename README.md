@@ -23,7 +23,7 @@
 <abc>
 <h2>Work Experience</h2>
 
-<h3>2016</h3>
+<h3>2016-2017</h3>
 <p>
 <strong>SMART – Self Managed Application Repackaging Tool</strong><br>
 - Developed a self-managed application repackaging tool for Windows OS and custom packages using shell and .NET.<br>
@@ -31,6 +31,7 @@
 - Developed frontend website using jQuery and backend using Node.js with SSO and OAuth authentication.<br>
 </p>
 
+<h3>2017-2018</h3>
 <p>
 <strong>NodeJS CLI for Change Ticket Management</strong><br>
 - Created a Node.js CLI tool for operations team to manage change tickets in ServiceNow (SNOW).<br>
@@ -38,6 +39,7 @@
 - Developed during the WannaCry ransomware attack to facilitate patching servers and prevent attacks.<br>
 </p>
 
+<h3>2018-2022</h3>
 <p>
 <strong>Myservers Self-Service Portal</strong><br>
 - Revamped Python backend code to Web2py and utilized Redis for caching to reduce latency.<br>
@@ -48,7 +50,7 @@
 - Packaged application into Docker images and designed architecture for deployment into EKS using Kubernetes.<br>
 </p>
 
-<h3>2020</h3>
+<h3>2020-2021</h3>
 <p>
 <strong>Ansible Tower and AWX Integration</strong><br>
 - Designed role-based access model and policies for business unit's Ansible projects using Ansible Tower and AWX.<br>
@@ -56,7 +58,7 @@
 - Provided training for operations team on Jenkins and Docker.<br>
 </p>
 
-<h3>2021</h3>
+<h3>2021-2022</h3>
 <p>
 <strong>Cloud Transformation</strong><br>
 - Migrated Oracle DB myservers to the cloud.<br>
@@ -79,7 +81,7 @@
 <h2>Resources</h2>
 <p> For more details and examples of my work, you can visit my <a href="https://prikat25.github.io/">GitHub repository</a> </p>
 <p> To view what I've been up to in Data Science, visit my <a href="https://eportfolio.mygreatlearning.com/priyanka-reddy">DS Portfolio</a>. </p>
-<p> Connect with on <a href="https://www.linkedin.com/in/priyanka-reddy-485aa9a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-reddy-485aa9a1/" height="30" width="40" /></a></p>
+<p> To know more about my professional achievements, visit my <a href="https://www.linkedin.com/in/priyanka-reddy-485aa9a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priyanka-reddy-485aa9a1/" height="30" width="40" /></a></p>
 </abc>
 
 <h3 align="left">Languages and Tools:</h3>
