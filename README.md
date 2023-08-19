@@ -39,7 +39,7 @@
 - Developed during the WannaCry ransomware attack to facilitate patching servers and prevent attacks.<br>
 </p>
 
-<h3>2018-2022</h3>
+<h3>2018-2020</h3>
 <p>
 <strong>Myservers Self-Service Portal</strong><br>
 - Revamped Python backend code to Web2py and utilized Redis for caching to reduce latency.<br>
